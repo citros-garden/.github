@@ -5,6 +5,6 @@ The **CITROS Garden** is an open-source organization holds different project for
 
 :page_facing_up: [Template](https://github.com/citros-garden/template) for creating a new CITROS project.
 
-:rocket: [Develop](../develope.md) your own CITROS project.
+:rocket: [Develop](../develop.md) your own CITROS project.
 
 :fire: [Contribute](../contribute.md) to an existing project.
