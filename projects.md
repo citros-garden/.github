@@ -14,5 +14,5 @@
 | [Robotic Arm](https://github.com/citros-garden/robotic_arm) | :red_circle: | :red_circle: | :red_circle: | :red_circle: | :red_circle: |@gtep96|
 
 :large_blue_circle: - Ready and checked
-:large_orange_diamond: - In Process
+:large_orange_diamond: - In process
 :red_circle: - Need to be done
