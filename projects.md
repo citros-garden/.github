@@ -1,6 +1,6 @@
 | Project Name | ROS Workspace | CITROS Locally | CITROS Web | Report | Tutorial | Maintainer
 | -------- |    ------- |       ------- |       ------- |    ------- | ------- |  ------- |
-| [Soft Landing](https://github.com/citros-garden/soft_landing) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :red_circle: |@orrlulavspace| 
+| [Soft Landing](https://github.com/citros-garden/soft_landing) | :large_blue_circle: | :large_orange_diamond: | :large_orange_diamond: | :large_orange_diamond: | :red_circle: |@orrlulavspace| 
 | [Drone](https://github.com/citros-garden/drone) | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :red_circle: | :red_circle: |@iftahnaf|
 | [Mass Spring Dumper](https://github.com/citros-garden/mass_spring_dumper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :red_circle: |@iftahnaf| 
 | [Lunar Hopper](https://github.com/citros-garden/lunar_hopper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: |@gtep96|
