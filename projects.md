@@ -6,7 +6,7 @@
 | [Lunar Hopper](https://github.com/citros-garden/lunar_hopper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: |@gtep96|
 | [Cannon](https://github.com/citros-garden/cannon) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :red_circle: |@shalevm|
 | [Lunar Starship](https://github.com/citros-garden/lunar_starship) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: |@gtep96|
-| [Poliastro](https://github.com/citros-garden/poliastro) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :red_circle: |@gtep96|
+| [Poliastro](https://github.com/citros-garden/poliastro) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: |@gtep96|
 | [Diffbot](https://github.com/citros-garden/diffbot) | :red_circle: | :red_circle: | :red_circle: | :red_circle: | :red_circle: |@orrlulavspace|
 | [Spicepy](https://github.com/citros-garden/spicepy) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :red_circle: |@gtep96|
 | [Aerosandbox_cessna](https://github.com/citros-garden/aerosandbox_cessna) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :red_circle: |@gtep96|
