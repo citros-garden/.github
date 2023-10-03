@@ -1,8 +1,8 @@
 | Project Name | ROS Workspace | CITROS Locally | CITROS Web | Report | Tutorial| CITROS Template | Maintainer
 | -------- |    ------- |       ------- |       ------- |    ------- | ------- |  ------- | ------- |
 | [Soft Landing](https://github.com/citros-garden/soft_landing) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond:| :red_circle: |@orrlulavspace| 
-| [Drone](https://github.com/citros-garden/drone) | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :red_circle: | :red_circle:| :red_circle: |@iftahnaf|
-| [Mass Spring Dumper](https://github.com/citros-garden/mass_spring_dumper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :large_blue_circle: |@iftahnaf| 
+| [Drone](https://github.com/citros-garden/drone) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :red_circle:| :large_blue_circle: |@iftahnaf|
+| [Mass Spring Damper](https://github.com/citros-garden/mass_spring_damper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: |@iftahnaf| 
 | [Lunar Hopper](https://github.com/citros-garden/lunar_hopper) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :large_blue_circle: |@gtep96|
 | [Cannon](https://github.com/citros-garden/cannon) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :red_circle: | :red_circle: | :red_circle: |@shalevm|
 | [Lunar Starship](https://github.com/citros-garden/lunar_starship) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :large_blue_circle: |@gtep96|
