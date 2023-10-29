@@ -12,6 +12,7 @@
 | [Aerosandbox_cessna](https://github.com/citros-garden/aerosandbox_cessna) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:  | :large_blue_circle:|@gtep96|
 | [Turtlebot3](https://github.com/citros-garden/turtlebot3) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@gtep96|
 | [Robotic Arm](https://github.com/citros-garden/robotic_arm) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@gtep96|
+| [Galactic Orbits](https://github.com/citros-garden/gal_orbits) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@Yalyalieva|
 
 :large_blue_circle: - Ready and checked\
 :large_orange_diamond: - In process\
