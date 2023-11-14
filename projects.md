@@ -13,7 +13,7 @@
 | [Turtlebot3](https://github.com/citros-garden/turtlebot3) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@gtep96|
 | [Robotic Arm](https://github.com/citros-garden/robotic_arm) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@gtep96|
 | [Galactic Orbits](https://github.com/citros-garden/gal_orbits) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_blue_circle:|@Yalyalieva|
-| [MoveIT Example](https://github.com/citros-garden/moveit-example) | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :large_orange_diamond: | :large_orange_diamond: | :large_orange_diamond:|@gtep96|
+| [MoveIT Example](https://github.com/citros-garden/moveit-example) | :large_blue_circle: | :large_blue_circle: | :large_blue_circle: | :large_orange_diamond: | :large_orange_diamond: | :large_blue_circle: |@gtep96|
 
 :large_blue_circle: - Ready and checked\
 :large_orange_diamond: - In process\
