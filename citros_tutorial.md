@@ -1,4 +1,4 @@
-# <Project Name>
+# Project Name
 
 ## Overview
 * Some explanation about the project and the `incentive` of using CITROS. 
